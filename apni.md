@@ -1,0 +1,2 @@
+composer require php-ai/php-ml
+One popular machine learning library for PHP is the PHP-ML library, which provides a range of machine learning algorithms and tools that can be used for various tasks such as classification, regression, clustering, and more. PHP-ML can be easily integrated into a Laravel application using Composer, which is Laravel's dependency management tool.
